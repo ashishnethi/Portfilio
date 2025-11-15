@@ -1,0 +1,140 @@
+{
+  "languages": [
+    {
+      "name": "JavaScript",
+      "level": "Advanced",
+      "icon": "🟨"
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "icon": "🔷"
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "icon": "🐍"
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "icon": "☕"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "React",
+      "level": "Advanced",
+      "icon": "⚛️"
+    },
+    {
+      "name": "Next.js",
+      "level": "Intermediate",
+      "icon": "▲"
+    },
+    {
+      "name": "Node.js",
+      "level": "Intermediate",
+      "icon": "🟢"
+    },
+    {
+      "name": "Express",
+      "level": "Intermediate",
+      "icon": "🚂"
+    },
+    {
+      "name": "Flask",
+      "level": "Intermediate",
+      "icon": "🔥"
+    },
+    {
+      "name": "FastAPI",
+      "level": "Advanced",
+      "icon": "⚡"
+    },
+    {
+      "name": "Django",
+      "level": "Intermediate",
+      "icon": "🐍"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "icon": "📦"
+    },
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "icon": "🐳"
+    },
+    {
+      "name": "AWS",
+      "level": "Advanced",
+      "icon": "☁️"
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "icon": "🍃"
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "icon": "🔶"
+    }
+  ],
+  "ai_skills": [
+    {
+      "name": "Machine Learning",
+      "level": "Intermediate",
+      "icon": "🤖"
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Intermediate",
+      "icon": "🧠"
+    },
+    {
+      "name": "NLP",
+      "level": "Intermediate",
+      "icon": "📝"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "level": "Intermediate",
+      "icon": "🎮"
+    },
+    {
+      "name": "Generative AI",
+      "level": "Advanced",
+      "icon": "🖼️"
+    },
+    {
+      "name": "LangChain",
+      "level": "Intermediate",
+      "icon": "🌐"
+    },
+    {
+      "name": "Multi-Agent Systems",
+      "level": "Advanced",
+      "icon": "🧑‍💻"
+    },
+    {
+      "name": "LLMs & Fine-Tuning",
+      "level": "Intermediate",
+      "icon": "📚"
+    }
+  ]
+,
+  "dsa": {
+    "name": "Data Structures & Algorithms",
+    "level": "Advanced",
+    "icon": "🧩",
+    "description": "Strong problem-solving skills with expertise in algorithms, data structures, and competitive programming."
+  }
+}
+
+
+

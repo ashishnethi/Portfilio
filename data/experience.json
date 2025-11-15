@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "role": "Applied AI Research Intern",
+    "company": "Genpact",
+    "location": "Bangalore, India",
+    "duration": "Jan 2024 - Jun 2024",
+    "description": "Built an enterprise AI assistant that understands and answers complex PDF-based queries.",
+    "achievements": [
+      "Developed a full document-intelligence pipeline that improved search relevance and accuracy by over 65%.",
+      "Implemented Celery + Redis for async processing, speeding up large PDF handling by 3×",
+      "Optimized embedding + retrieval workflows, reducing response latency by 35%.",
+      "Worked with the R&D team to build internal GenAI workflows used to automate routine knowledge queries."
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Software Engineer — Python Full Stack",
+    "company": "Autodesk",
+    "location": "Bengaluru, India",
+    "duration": "Jan 2024 - Present",
+    "description": "Building scalable cloud systems and AI features that streamline internal operations at Autodesk.",
+    "achievements": [
+      "Designed AWS pipelines that reduced manual data handling by 40% and improved vendor onboarding reliability",
+      "Integrated a RAG chatbot that helped teams query outages instantly, cutting incident lookup time by ~50%",
+      "Unified 10+ internal and external data sources, increasing real-time visibility and team coordination by 30%",
+      "Delivered UI enhancements (calendars, dashboards, global search) that improved user efficiency for 2000+ users"
+    ]
+  }
+]
+
+
+

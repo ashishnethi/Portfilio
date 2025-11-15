@@ -1,0 +1,21 @@
+<svg width="1200" height="675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <g fill="none" stroke="white" stroke-width="6" opacity="0.95" stroke-linecap="round" stroke-linejoin="round">
+    <!-- chat bubble -->
+    <path d="M380 250 h340 a40 40 0 0 1 40 40 v90 a40 40 0 0 1 -40 40 h-210 l-70 50 v-50 h-60 a40 40 0 0 1 -40 -40 v-90 a40 40 0 0 1 40 -40 z"/>
+    <!-- shield -->
+    <path d="M720 200 l80 30 v70 c0 70 -40 120 -80 145 c-40 -25 -80 -75 -80 -145 v-70 z"/>
+    <!-- lock -->
+    <rect x="470" y="300" width="120" height="90" rx="14" fill="rgba(255,255,255,0.1)"/>
+    <path d="M495 300 v-20 a35 35 0 0 1 70 0 v20"/>
+  </g>
+  <text x="600" y="120" font-family="Segoe UI, Arial" font-size="46" text-anchor="middle" fill="white" opacity="0.95">InputGuard · Sensitive Data Protection</text>
+</svg>
+
+

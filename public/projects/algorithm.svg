@@ -1,0 +1,21 @@
+<svg width="1200" height="675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <g stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.95">
+    <rect x="280" y="220" width="160" height="100" rx="12"/>
+    <rect x="520" y="220" width="160" height="100" rx="12"/>
+    <rect x="760" y="220" width="160" height="100" rx="12"/>
+    <rect x="520" y="380" width="160" height="100" rx="12"/>
+    <path d="M440 270 L520 270"/>
+    <path d="M680 270 L760 270"/>
+    <path d="M600 320 L600 380"/>
+  </g>
+  <text x="600" y="110" font-family="Segoe UI, Arial" font-size="48" text-anchor="middle" fill="white" opacity="0.95">Algorithms</text>
+</svg>
+
+

@@ -1,0 +1,22 @@
+<svg width="1200" height="675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <g fill="none" stroke="white" stroke-width="5" opacity="0.95" stroke-linecap="round" stroke-linejoin="round">
+    <!-- candidate card -->
+    <rect x="360" y="220" width="480" height="260" rx="20" fill="rgba(255,255,255,0.12)"/>
+    <circle cx="440" cy="300" r="36"/>
+    <path d="M404 360 h72 a36 36 0 0 1 36 36 v12 h-144 v-12 a36 36 0 0 1 36 -36 z"/>
+    <!-- checks -->
+    <path d="M540 280 l18 18 l30 -34"/>
+    <path d="M540 330 l18 18 l30 -34" opacity="0.85"/>
+    <path d="M540 380 l18 18 l30 -34" opacity="0.7"/>
+  </g>
+  <text x="600" y="120" font-family="Segoe UI, Arial" font-size="46" text-anchor="middle" fill="white" opacity="0.95">Multi‑Agent Recruitment Assistant</text>
+</svg>
+
+

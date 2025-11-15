@@ -1,0 +1,23 @@
+<svg width="1200" height="675" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#g)"/>
+  <!-- brain / reasoning nodes -->
+  <g fill="none" stroke="white" stroke-width="5" opacity="0.95" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="420" cy="330" r="28"/>
+    <circle cx="540" cy="260" r="22"/>
+    <circle cx="620" cy="340" r="26"/>
+    <circle cx="720" cy="280" r="20"/>
+    <circle cx="780" cy="360" r="24"/>
+    <path d="M420 330 L540 260 L620 340 L720 280 L780 360"/>
+    <path d="M540 260 L720 280" opacity="0.8"/>
+    <path d="M620 340 L780 360" opacity="0.8"/>
+  </g>
+  <text x="600" y="120" font-family="Segoe UI, Arial" font-size="46" text-anchor="middle" fill="white" opacity="0.95">ThinkPart · Offline AI Reasoning</text>
+</svg>
+
+

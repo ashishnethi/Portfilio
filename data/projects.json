@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "title": "InputGuard Extension",
+    "description": "A real-time privacy extension that detects and blocks sensitive data before it’s sent to ChatGPT using ML-based NER and AWS-powered validation.",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe", "MongoDB"],
+    "image": "/projects/inputguard.svg",
+    "github": "https://github.com/yourusername/ecommerce",
+    "live": "/projects/inputguard.svg"
+    },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "A collaborative task management application with real-time updates and drag-and-drop functionality.",
+    "technologies": ["React", "Node.js", "Socket.io", "PostgreSQL"],
+    "image": "/project-placeholder.svg",
+    "github": "https://github.com/yourusername/taskapp",
+    "video": "/video/ai_recruitement.mp4",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Weather Dashboard",
+    "description": "A beautiful weather dashboard with location-based forecasts and interactive charts.",
+    "technologies": ["React", "Chart.js", "OpenWeather API"],
+    "image": "/projects/browser-agent.svg",
+    "github": "https://github.com/yourusername/weather",
+    "live": "https://yourproject.com",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "Algorithm Visualizer",
+    "description": "An interactive tool to visualize various sorting and searching algorithms with DSA concepts.",
+    "technologies": ["React", "D3.js", "TypeScript"],
+    "image": "/projects/inputguard.svg",
+    "github": "https://github.com/yourusername/algo-viz",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "featured": true
+  },
+    {
+    "id": 5,
+    "title": "Algorithm Visualiz",
+    "description": "An interactive tool to visualize various sorting and searching algorithms with DSA concepts.",
+    "technologies": ["React", "D3.js", "TypeScript"],
+    "image": "/project-placeholder.svg",
+    "github": "https://github.com/yourusername/algo-viz",
+    "live": "https://yourproject.com",
+    "featured": true
+  },
+    {
+    "id": 6,
+    "title": "Algorithm Visual",
+    "description": "An interactive tool to visualize various sorting and searching algorithms with DSA concepts.",
+    "technologies": ["React", "D3.js", "TypeScript"],
+    "image": "/project-placeholder.svg",
+    "github": "https://github.com/yourusername/algo-viz",
+    "live": "https://yourproject.com",
+    "featured": true
+  },
+  {
+    "id": 7,
+    "title": "Algorithm Vi",
+    "description": "An interactive tool to visualize various sorting and searching algorithms with DSA concepts.",
+    "technologies": ["React", "D3.js", "TypeScript"],
+    "image": "/project-placeholder.svg",
+    "github": "https://github.com/yourusername/algo-viz",
+    "featured": true
+  }
+]
+
