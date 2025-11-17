@@ -74,7 +74,7 @@ export function Skills() {
           </h2>
 
           <p className="text-base sm:text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto px-4">
-            Technologies and tools I work with
+            My Arsenal of Tools & Technologies
           </p>
         </motion.div>
 
