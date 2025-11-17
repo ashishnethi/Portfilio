@@ -76,7 +76,7 @@ export function Projects() {
             className="inline-block mb-4"
           >
             <span className="px-5 py-2.5 rounded-full bg-gradient-to-r from-cyan-500/15 via-sky-500/15 to-cyan-500/15 border border-cyan-500/30 text-cyan-700 dark:text-cyan-300 text-xs sm:text-sm font-semibold shadow-lg backdrop-blur-sm">
-              Portfolio
+              Projects
             </span>
           </motion.div>
 
