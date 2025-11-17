@@ -116,6 +116,11 @@
       "level": "Intermediate",
       "icon": "🌐"
     },
+      {
+      "name": "LangGraph",
+      "level": "Intermediate",
+      "icon": "📊"
+    },
     {
       "name": "Multi-Agent Systems",
       "level": "Advanced",
